@@ -1,4 +1,4 @@
-# Hi there! I´m Lucas 👋
+# Hello there! I´m Lucas 👋
 
 - 🚀 Back-end Developer;
 - ☕ Studying Java;
