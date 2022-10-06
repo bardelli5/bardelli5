@@ -5,8 +5,10 @@
 - 🎒 I’m currently learning Spring Boot, Blazor, .NET;
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Barda-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Barda-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Barda-Spring" height="30" width="100" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Barda-CSharp" height="30" width="80" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Barda-dotNet" height="30" width="80" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </div>
   
   ##
