@@ -1,8 +1,7 @@
-# Hello there! I´m Lucas 👋
+# Olá! Eu sou o Lucas 👋
 
-- 🚀 Back-end Developer;
-- ☕ Studying Java & CSharp;
-- 🎒 I’m currently learning Spring Boot, Blazor, .NET;
+- 🚀 Desenvolvedor Front-End;
+- ☕ Estudando JavaScript & React e aprimorando a área do front-end;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Barda-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
