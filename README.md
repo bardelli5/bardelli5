@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas 👋
 
-- 🚀 Desenvolvedor Front-End;
+- 🚀 Desenvolvedor FullStack;
 - ☕ Estudando JavaScript & React e aprimorando a área front-end;
 
 <div style="display: inline_block"><br>
